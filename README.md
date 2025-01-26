@@ -16,3 +16,7 @@ Step 4: Teachers can view attendance day wise in a report. Similarly students ca
 The java classes can be found in the path: attendeasev2.zip\attendeasev2\app\src\main\java\com\example\attendeasev2
 
 The xml files for front-end can be viewed from : attendeasev2.zip\attendeasev2\app\src\main\res\layout
+
+Check out the demo video:
+
+[![Watch the video]](https://drive.google.com/file/d/1YVn0cMHyKxMX_E5FD5etQ8Xp7rt4Aphd/view?usp=sharing))
