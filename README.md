@@ -19,4 +19,4 @@ The xml files for front-end can be viewed from : attendeasev2.zip\attendeasev2\a
 
 Check out the demo video:
 
-[![Watch the video]](https://drive.google.com/file/d/1YVn0cMHyKxMX_E5FD5etQ8Xp7rt4Aphd/view?usp=sharing))
+[Watch the video](https://drive.google.com/file/d/1YVn0cMHyKxMX_E5FD5etQ8Xp7rt4Aphd/view?usp=sharing)
