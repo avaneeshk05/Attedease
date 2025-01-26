@@ -48,9 +48,9 @@ public class MainStudent extends AppCompatActivity {
             public void onClick(View v) {
                 FirebaseFirestore db = FirebaseFirestore.getInstance();
                 FirebaseUser ud = FirebaseAuth.getInstance().getCurrentUser();
-                String className = "cseA";
+                String className = String.valueOf(cname.getText());
                 String subject = String.valueOf(subj.getText());
-                String studentName = "Abbhinav";
+                String studentName = String.valueOf(sname.getText());
                 //String mail="abbhinav@gmail.com";
 
                 progressBar.setVisibility(View.VISIBLE);
